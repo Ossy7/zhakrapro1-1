@@ -20,7 +20,7 @@ File Validation:
 2. Select a Hash Function
 
 Using zhakrapro1-1 in its simplest form:
-unzip zhakrapro1-1-linux-app-dist-x86_64.zip as the case maybe and scroll down to zhakrapro1-1 and double click.
+unzip zhakrapro1-1-dist-linux-x86_64.zip as the case maybe and scroll down to zhakrapro1-1 and double click.
 Viola!
 
 Licence:
