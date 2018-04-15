@@ -19,6 +19,10 @@ File Validation:
 1. Enter File path
 2. Select a Hash Function
 
+Using zhakrapro1-1 in its simplest form:
+unzip zhakrapro1-1-linux-app-dist-x86_64.zip as the case maybe and scroll down to zhakrapro1-1 and double click.
+Viola!
+
 Licence:
 ZhakraPro version 1.1.0 is licenced under the GNU General Public Licence.
 ZhakraPro 1.1.0 is distrisbuted in the hope that it will be useful BUT WITHOUT ANY WARRANTY.
