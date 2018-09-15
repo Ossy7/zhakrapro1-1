@@ -1,5 +1,5 @@
-ZhakraPro1-5-0
-version: 1.5.0
+ZhakraPro1-5-1
+version: 1.5.1
 
 Zhakrapro is a digital forensics GUI app written in Python 2.7.14+ and PyQt4.
 It is a file integrity validator, system and device internet monitor.
@@ -32,17 +32,12 @@ General instructions:
 1 For file integrity check, specify full file path. Example: /home/username/myfile.zip
 2 Select a hash function to use in integrity check.
 
-Using Zhakrapro in its simplest form:
-1. Unzip zhakrapro1-5-0-dist-linux-x86_64.zip as the case maybe, scroll to zhakrapro1-5-0 application and double click.
-Viola !
+Using Zhakrapro in its simplest form (32 bit Linux):
+1. Unzip zhakrapro1-5-1-dist-linux-x86.zip as the case maybe, open zhakrapro1-5-1 folder, scroll to zhakrapro1-5-1 application and double click.
+Voila !
 
-Integrity check:
-sha256 zhakrapro1-5-0-dist-linux-x86_64.zip: 7c61ad89eef8762eda41d9e4e0e4e1ea922eea8a0a7b6df5838b185fcf599a45  
- 
-
-sha256 zhakrapro1-5-0-dist-linux_x86.zip:
-976a2d17713547533d249194c3e776de51b214b6720a7e661667c2349b55d152 
- 
+sha256sum zhakrapro1-5-1-dist-linux_x86.zip:
+e905ea9922925dfecbb5bbdc2bc61b540f2c1a20db8b967b9c5149bb2324379b 
  
 
 
@@ -51,4 +46,4 @@ Developer:
 Daniel Osinachi N.
 dan.ossy.do@gmail.com
 Copyright (C) 2018 Daniel Osinachi N.
-25-06-2018
+15-09-2018
