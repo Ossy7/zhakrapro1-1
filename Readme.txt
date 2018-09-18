@@ -36,9 +36,11 @@ Using Zhakrapro in its simplest form (32 bit Linux):
 1. Unzip zhakrapro1-5-1-dist-linux-x86.zip as the case maybe, open zhakrapro1-5-1 folder, scroll to zhakrapro1-5-1 application and double click.
 Voila !
 
-sha256sum zhakrapro1-5-1-dist-linux_x86.zip:
+sha256sum zhakrapro1-5-1-dist-linux-x86.zip:
 e905ea9922925dfecbb5bbdc2bc61b540f2c1a20db8b967b9c5149bb2324379b 
- 
+
+sha256sum zhakrapro1-5-1-dist-linux-x86_64.zip:
+4a5af19a6004bd79a189c1e99d2db37e04bfbae8053104cf6aa521598ae17ffc 
 
 
 
@@ -46,4 +48,4 @@ Developer:
 Daniel Osinachi N.
 dan.ossy.do@gmail.com
 Copyright (C) 2018 Daniel Osinachi N.
-15-09-2018
+18-09-2018
